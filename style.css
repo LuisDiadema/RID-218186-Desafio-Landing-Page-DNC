@@ -38,7 +38,7 @@ body{
         padding: 20% 0% 14% 8%;
     }
     #titulo-menu-superior {
-        font-size: 125%
+        font-size: 125%;
     }
     #texto-secundario {
         font-size: 45%;
@@ -55,8 +55,7 @@ body{
 }
 
 .informativo {
-    padding: 5% 0% 5% 0%;
-    width: 98%;
+    padding: 5% 2% 5% 4%;
     display: flex;
     justify-content: right;
     align-items: center;
